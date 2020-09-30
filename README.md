@@ -1,6 +1,6 @@
  <img src="https://github.com/jokker99/jokker99/blob/master/Assets/ye.jpg" width="120%" height="400px">
 
-# Hi there!  <span>    </span> <img src="https://github.com/jokker99/jokker99/blob/master/Assets/wave.gif" width="10%">
+# Hi there!  <pre>     </pre><img src="https://github.com/jokker99/jokker99/blob/master/Assets/wave.gif" width="10%">
 
 <!--
 **jokker99/jokker99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
