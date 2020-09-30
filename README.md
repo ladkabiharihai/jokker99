@@ -1,4 +1,5 @@
-https://github.com/jokker99/jokker99/blob/master/Assets/ye.jpg
+ <img src="https://github.com/jokker99/jokker99/blob/master/Assets/ye.jpg" width="">
+
 ### Hi there 👋
 
 <!--
