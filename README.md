@@ -1,4 +1,4 @@
- <img src="https://github.com/jokker99/jokker99/blob/master/Assets/ye.jpg" width="">
+ <img src="https://github.com/jokker99/jokker99/blob/master/Assets/ye.jpg" width="" height="50%">
 
 ### Hi there 👋
 
