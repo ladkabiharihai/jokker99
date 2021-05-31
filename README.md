@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokker99)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokker99&theme=tokyonight")](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jokker99&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jokker99&show_icons=true&theme=tokyonight")  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jokker99)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jokker99&theme=tokyonight")  
 
 
 ![Profile views](https://gpvc.arturio.dev/jokker99)  
